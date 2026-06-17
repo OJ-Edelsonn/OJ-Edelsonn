@@ -1,6 +1,6 @@
 # Hola, soy Edelson Anghuelo Orihuela Jara
 
-Estudiante de Ingeniería de Sistemas en la Universidad Científica del Sur, con enfoque en desarrollo de aplicaciones web, análisis de datos y soluciones digitales orientadas a negocio.
+Estudiante de Ingeniería Empresarial y Sistemas en la Universidad Científica del Sur, con enfoque en desarrollo de aplicaciones web, análisis de datos y soluciones digitales orientadas a negocio.
 
 Me interesa construir proyectos que conecten tecnología con problemas reales: sistemas de gestión, dashboards, automatización de procesos, análisis de ventas, inventario y toma de decisiones basada en datos.
 
