@@ -1,15 +1,23 @@
 # Hola, soy Edelson Anghuelo Orihuela Jara
 
-Estudiante de Ingeniería Empresarial y Sistemas en la Universidad Científica del Sur, con enfoque en desarrollo de aplicaciones web, análisis de datos y soluciones digitales orientadas a negocio.
+Estudiante de Ingeniería Empresarial y Sistemas en la Universidad Científica del Sur, con enfoque en desarrollo de aplicaciones web, análisis de datos, Business Intelligence y soluciones digitales orientadas a negocio.
 
-Me interesa construir proyectos que conecten tecnología con problemas reales: sistemas de gestión, dashboards, automatización de procesos, análisis de ventas, inventario y toma de decisiones basada en datos.
+Me interesa construir proyectos que conecten tecnología con problemas reales: sistemas de gestión, dashboards, automatización de procesos, análisis de ventas, inventario, operaciones y toma de decisiones basada en datos.
+
+## Proyecto destacado reciente
+
+### Dashboard_ComExtPE_2024-2026
+
+Proyecto de análisis y visualización de datos orientado al comercio exterior del Perú durante el periodo 2024-2026. Este dashboard permite explorar indicadores clave, tendencias, comportamiento comercial y datos relevantes para apoyar el análisis económico y la toma de decisiones.
+
+Este proyecto representa mi interés por combinar análisis de datos, visualización ejecutiva y contexto empresarial para transformar información en conclusiones claras y accionables.
 
 ## Enfoque profesional
 
 - Desarrollo de sistemas web con Java, Spring Boot, Thymeleaf, PHP, MySQL y arquitectura MVC.
 - Análisis de datos con Python, Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook.
 - Business Intelligence con Power BI, SQL, Power Query, DAX y dashboards ejecutivos.
-- Diseño de soluciones para ventas, inventario, despacho, gestión operativa y consultoría de negocio.
+- Diseño de soluciones para ventas, inventario, despacho, comercio exterior, gestión operativa y consultoría de negocio.
 - Documentación técnica clara para GitHub, presentaciones académicas y portafolio profesional.
 
 ## Proyectos destacados
@@ -45,13 +53,13 @@ Proyecto de analítica aplicada a negocio que combina datos, simulación económ
 - Desarrollo backend con Java y Spring Boot.
 - Modelado de bases de datos y consultas SQL.
 - Dashboards de negocio con Power BI.
-- Análisis de datos aplicado a ventas, inventario y operaciones.
+- Análisis de datos aplicado a ventas, inventario, comercio exterior y operaciones.
 - Mejores prácticas para documentar proyectos técnicos en GitHub.
 
 ## Contacto
 
 - Lima, Perú
 - Universidad Científica del Sur
-- Celular: 921215853
+- Celular: 921215853/900749742
 - Correo: 100067099@cientifica.edu.pe
 - GitHub: [OJ-Edelsonn](https://github.com/OJ-Edelsonn)
