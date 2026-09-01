@@ -1,65 +1,71 @@
 # Hola, soy Edelson Anghuelo Orihuela Jara
 
-Estudiante de Ingeniería Empresarial y Sistemas en la Universidad Científica del Sur, con enfoque en desarrollo de aplicaciones web, análisis de datos, Business Intelligence y soluciones digitales orientadas a negocio.
+Estudiante de séptimo ciclo de la carrera de Ingeniería Empresarial y de Sistemas en la Universidad Científica del Sur, con enfoque en análisis de datos, Business Intelligence, procesos y soluciones digitales orientadas a negocio.
 
-Me interesa construir proyectos que conecten tecnología con problemas reales: sistemas de gestión, dashboards, automatización de procesos, análisis de ventas, inventario, operaciones y toma de decisiones basada en datos.
+Me interesa construir proyectos que conecten tecnología con problemas reales: sistemas de gestión, dashboards, automatización de procesos, análisis comercial, inventario, operaciones y toma de decisiones basada en datos.
 
 ## Proyecto destacado reciente
 
-### Dashboard_ComExtPE_2024-2026
+### [Procurement Intelligence & Supplier Risk — Perú](https://github.com/OJ-Edelsonn/procurement-intelligence-supplier-risk-peru)
 
-Proyecto de análisis y visualización de datos orientado al comercio exterior del Perú durante el periodo 2024-2026. Este dashboard permite explorar indicadores clave, tendencias, comportamiento comercial y datos relevantes para apoyar el análisis económico y la toma de decisiones.
+Solución Data/BI end-to-end para analizar contratación pública, inteligencia comercial y exposición a proveedores utilizando datos abiertos oficiales de OECE/SEACE. Integra Python, SQL Server y Power BI, con trazabilidad de fuentes, controles de calidad, modelo dimensional, KPIs gobernados, automatización, pruebas y documentación reproducible.
 
-Este proyecto representa mi interés por combinar análisis de datos, visualización ejecutiva y contexto empresarial para transformar información en conclusiones claras y accionables.
+El proyecto procesa 231,123 filas provenientes de 22 tablas OCDS, publica 21 KPIs gobernados y presenta un dashboard ejecutivo de cinco páginas. Su primera versión estable está disponible como [release v1.0.0](https://github.com/OJ-Edelsonn/procurement-intelligence-supplier-risk-peru/releases/tag/v1.0.0).
 
 ## Enfoque profesional
 
-- Desarrollo de sistemas web con Java, Spring Boot, Thymeleaf, PHP, MySQL y arquitectura MVC.
 - Análisis de datos con Python, Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook.
 - Business Intelligence con Power BI, SQL, Power Query, DAX y dashboards ejecutivos.
-- Diseño de soluciones para ventas, inventario, despacho, comercio exterior, gestión operativa y consultoría de negocio.
+- Modelado dimensional, calidad de datos, ETL y automatización de pipelines analíticos.
+- Diseño de soluciones para ventas, inventario, contratación pública, comercio exterior, operaciones y consultoría de negocio.
+- Desarrollo de sistemas web con Java, Spring Boot, Thymeleaf, PHP, MySQL y arquitectura MVC.
 - Documentación técnica clara para GitHub, presentaciones académicas y portafolio profesional.
 
 ## Proyectos destacados
 
-### Sistema de Business Intelligence para Ferretería
-Dashboard en Power BI para monitorear ventas, inventario, margen, rotación de productos y KPIs de negocio. Incluye dataset, validaciones SQL, modelo semántico, medidas DAX e insights ejecutivos.
+### [Dashboard de Comercio Exterior Peruano 2024–2026](https://github.com/OJ-Edelsonn/Dashboard-comercio-exterior-peru-2024-2026)
 
-### Mini Proyecto de Análisis de Datos con Python
-Análisis reproducible de ventas e inventario de ferretería usando Python, Pandas y Jupyter Notebook. Incluye limpieza, transformación, visualizaciones, KPIs e insights de negocio.
+Solución BI basada en datos oficiales de MINCETUR que integra auditoría, ETL con Python, modelo estrella, carga en SQL Server, validación de KPIs y tres páginas de análisis en Power BI sobre más de 1.5 millones de registros.
 
-### J&S Ferretería Inteligente
-Sistema web full stack en PHP y MySQL para catálogo de productos, cotizador, contacto, panel administrativo, control de stock e interacción con clientes.
+### [Sistema de Business Intelligence para Ferretería](https://github.com/OJ-Edelsonn/sistema-bi-ferreteria)
 
-### ToolBox Gestor Web
-Sistema web MVC en Java, JSP, Servlets, JDBC y MySQL para gestionar productos, categorías, proveedores, clientes, ventas e inventario básico.
+Dashboard en Power BI para monitorear ventas, inventario, margen, rotación de productos y KPIs de negocio. Incluye dataset documentado, validaciones SQL, modelo semántico, medidas DAX, cinco páginas funcionales e insights ejecutivos.
 
-### Sistema Web de Despacho
-Aplicación académica en Java con Spring Boot, Thymeleaf, Spring Data JPA y MySQL para gestionar cargas, despachos, conductores, tractos y remolques mediante operaciones CRUD.
+### [Caso de Consultoría y Optimización de Negocio](https://github.com/OJ-Edelsonn/caso-consultoria-optimizacion-negocio)
 
-### Caso de Consultoría y Optimización de Negocio
-Proyecto de analítica aplicada a negocio que combina datos, simulación económica, Power BI y enfoque estratégico para convertir información operativa en decisiones accionables.
+Proyecto de analítica aplicada a una empresa industrial que combina contexto público, datos operativos simulados, análisis de ventas e inventario, escenarios de impacto, Power BI y enfoque estratégico para priorizar decisiones empresariales.
+
+### [Mini Proyecto de Análisis de Datos con Python](https://github.com/OJ-Edelsonn/mini-proyecto-analisis-datos-python)
+
+Análisis reproducible de ventas e inventario usando Python, Pandas y Jupyter Notebook. Incluye limpieza, transformación, validación de calidad, visualizaciones, KPIs, archivos procesados e insights de negocio.
+
+### [Portafolio profesional bilingüe](https://oj-edelsonn.github.io/)
+
+Sitio web en español e inglés que reúne proyectos personales y académicos relacionados con datos, Business Intelligence, procesos, consultoría y sistemas de información, además de credenciales, publicaciones y CV.
 
 ## Stack tecnológico
 
-**Lenguajes:** Java, Python, PHP, SQL, HTML, CSS, JavaScript  
-**Backend:** Spring Boot, JSP, Servlets, JDBC, Spring Data JPA  
-**Datos y BI:** Power BI, DAX, Power Query, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
-**Bases de datos:** MySQL, SQLite  
-**Herramientas:** Git, GitHub, XAMPP, Maven, Gradle, Bootstrap, VS Code, NetBeans, Spring Tools
+- **Lenguajes:** Python, SQL, Java, PHP, HTML, CSS y JavaScript.
+- **Datos y BI:** Power BI, DAX, Power Query, Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook.
+- **Bases de datos:** SQL Server, MySQL y SQLite.
+- **Backend:** Spring Boot, JSP, Servlets, JDBC y Spring Data JPA.
+- **Herramientas:** Git, GitHub, XAMPP, Maven, Gradle, Bootstrap, VS Code, NetBeans y Spring Tools.
 
 ## Actualmente estoy fortaleciendo
 
+- Modelado dimensional, calidad de datos y consultas SQL.
+- Automatización de pipelines con Python.
+- Dashboards ejecutivos y comunicación de insights con Power BI.
+- Análisis de datos aplicado a operaciones, comercio exterior, compras e inventario.
 - Desarrollo backend con Java y Spring Boot.
-- Modelado de bases de datos y consultas SQL.
-- Dashboards de negocio con Power BI.
-- Análisis de datos aplicado a ventas, inventario, comercio exterior y operaciones.
-- Mejores prácticas para documentar proyectos técnicos en GitHub.
+- Buenas prácticas de documentación, pruebas y versionamiento de proyectos.
 
 ## Contacto
 
 - Lima, Perú
 - Universidad Científica del Sur
-- Celular: 921215853/900749742
+- Celular: 921215853 / 900749742
 - Correo: 100067099@cientifica.edu.pe
 - GitHub: [OJ-Edelsonn](https://github.com/OJ-Edelsonn)
+- LinkedIn: [Edelson Anghuelo Orihuela Jara](https://www.linkedin.com/in/edelson-anghuelo-orihuela-jara-07b299329)
+- Portafolio: [oj-edelsonn.github.io](https://oj-edelsonn.github.io/)
